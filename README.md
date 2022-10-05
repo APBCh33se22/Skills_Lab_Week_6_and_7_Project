@@ -6,3 +6,4 @@ Repository for the week 6/7 skills lab (CS 0010)
 
 GROUP MEMBERS
 Aidan Brophy
+Aaron Gan
